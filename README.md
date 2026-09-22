@@ -55,8 +55,11 @@ Forecasting project analysing electricity demand using statistical and machine l
 
 **Tools:** Python | Forecasting | Machine Learning
 
+[View Project](https://github.com/AnjuSambasivan93/Electricity-Load-Forecasting-Project/blob/main/README.md)
+
 ### Property Price Prediction
 Property price modelling using stepwise regression and regularisation techniques.
+
 
 **Tools:** Regression | Lasso | Ridge | Elastic Net
 

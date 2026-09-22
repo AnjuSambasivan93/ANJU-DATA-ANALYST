@@ -182,15 +182,23 @@ Analysis of factors influencing diamond prices using multiple linear regression.
 
 ---
 
-## Data Applications
+## AI & Data Applications
 
 ### Resume Screening System
 
-Python application for extracting structured information from resumes to support candidate analysis.
+AI-powered application for extracting structured information from resumes and supporting candidate analysis and screening.
 
-**Tools:** Python | Data Extraction | Structured Data Processing
+**Tools:** Python | LLM | Data Extraction | Structured Data Processing
 
 [View Project](https://github.com/AnjuSambasivan93/HR-Resume-Screening-System)
+
+### RAG – Retrieval-Augmented Generation Chatbot
+
+AI application using Retrieval-Augmented Generation (RAG) to retrieve relevant information from external knowledge sources and generate context-aware responses.
+
+**Tools:** Python | RAG | LLM | Vector Search | NLP
+
+[View Project](https://github.com/AnjuSambasivan93/RAG-Retrieval-Augmented-Generation-chatbot)
 
 ---
 

@@ -63,6 +63,8 @@ Property price modelling using stepwise regression and regularisation techniques
 
 **Tools:** Regression | Lasso | Ridge | Elastic Net
 
+[View Project](https://github.com/AnjuSambasivan93/Regression-Models-for-Property-Price-Stepwise-Regularization)
+
 ### Crime Prediction
 Crime prediction using Random Forest classification.
 
@@ -75,10 +77,14 @@ Clustering seed morphological characteristics using K-Means and Gaussian Mixture
 
 **Tools:** K-Means | GMM | Clustering
 
+[View Project](https://github.com/AnjuSambasivan93/K-means-and-GMM-Based-Clustering-of-Seed-Morphological-Features)
+
 ### RGB Colour Classification
 Comparison of QDA and k-NN methods for RGB-based colour classification.
 
 **Tools:** QDA | k-NN | Classification
+
+[View Project](https://github.com/AnjuSambasivan93/RGB-Based-Color-Classification-A-QDA-vs-k-NN-Study)
 
 ---
 
@@ -100,7 +106,7 @@ Python application for extracting structured information from resumes.
 
 **Tools:** Python | Data Extraction
 
-[View Project](https://github.com/AnjuSambasivan93/Resume-Extractor)
+[View Project](https://github.com/AnjuSambasivan93/HR-Resume-Screening-System)
 
 ---
 

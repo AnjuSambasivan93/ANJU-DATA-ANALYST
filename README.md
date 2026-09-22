@@ -1,23 +1,24 @@
 # Anju Sambasivan | Data Analyst
 
-Data & Business Intelligence Analyst with experience in data analytics, ETL, data modelling, Power BI, SQL, Python, and automated reporting.
+Data & Business Intelligence Analyst with experience in **data analytics, ETL, data modelling, Power BI, SQL, Python, R, and automated reporting**.
 
-I transform complex datasets into clear, actionable insights through data preparation, analysis, visualisation, and reporting.
+I transform complex datasets into clear, actionable insights through data preparation, analysis, visualisation, statistical modelling, and business intelligence.
 
 ---
 
 ## Power BI & Business Intelligence Projects
 
 ### Personal Finance Dashboard
+
 Interactive Power BI dashboard for analysing monthly income, expenses, available balance, and performance against income targets.
 
-**Tools:** Power BI | DAX | Data Modelling | Data Visualisation
+**Tools:** Power BI | DAX | Power Query | Data Modelling | Data Visualisation
 
 [View Project](https://github.com/AnjuSambasivan93/POWER-BI-PORTFOLIO/tree/main/Personal-Finance-Dashboard)
 
 ### NSW Property Market Analysis Dashboard
 
-End-to-end Business Intelligence project analysing property median values across New South Wales using SSIS, SQL Server, dimensional modelling, and Power BI.
+End-to-end Business Intelligence solution for analysing property median values across New South Wales. The project includes ETL processing, dimensional modelling, SQL Server data warehousing, and interactive Power BI reporting.
 
 **Tools:** Power BI | DAX | SQL Server | SSIS | ETL | Data Warehousing
 
@@ -28,83 +29,162 @@ End-to-end Business Intelligence project analysing property median values across
 ## Data Analytics Projects
 
 ### New Zealand Crash Analysis
-Interactive analysis of New Zealand crash data across regions, years, crash severity, weather, speed limits, lighting conditions, and other road-safety factors.
+
+Interactive analysis of New Zealand road crash data across regions, years, crash severity, weather, speed limits, lighting conditions, and other road-safety factors.
 
 **Tools:** R | Shiny | Data Analysis | Data Visualisation
 
 [View Project](https://github.com/AnjuSambasivan93/ShinyApp-MCERT-NZ-Crash-Analysis)
 
 ### Crime Analysis in New Zealand
-Analysis and visualisation of crime patterns across New Zealand.
+
+Analysis and visualisation of crime patterns across New Zealand, including demographic characteristics and offence types.
+
+**Tools:** R | Data Analysis | Data Visualisation
 
 [View Project](https://github.com/AnjuSambasivan93/Crime-Analysis-in-New-Zealand)
 
 ### Improving Roadwork Scheduling
-Data analysis project investigating traffic patterns to support roadwork scheduling decisions.
+
+Analysis of traffic patterns to support better roadwork scheduling decisions in high-traffic areas.
 
 **Tools:** R | Data Wrangling | Data Analysis
 
 [View Project](https://github.com/AnjuSambasivan93/Improving-Roadwork-Scheduling)
+
+### Airline Delay Analysis
+
+Analysis of airline delay patterns using the `nycflights13` dataset.
+
+**Tools:** R | Tidyverse | data.table | Data Wrangling
+
+[View Project](https://github.com/AnjuSambasivan93/Tidyverse-DataTables)
+
+### Inventory Analysis with SQL and R
+
+SQL and R integration project analysing inventory data from the DVDRental database.
+
+**Tools:** SQL | R | Database Analysis
+
+[View Project](https://github.com/AnjuSambasivan93/SQL-in-R)
 
 ---
 
 ## Data Science & Machine Learning Projects
 
 ### Electricity Load Forecasting
+
 Forecasting project analysing electricity demand using statistical and machine learning techniques.
 
-**Tools:** Python | Forecasting | Machine Learning
+**Tools:** Python | Forecasting | Machine Learning | Data Analysis
 
-[View Project](https://github.com/AnjuSambasivan93/Electricity-Load-Forecasting-Project/blob/main/README.md)
+[View Project](https://github.com/AnjuSambasivan93/Electricity-Load-Forecasting-Project)
 
 ### Property Price Prediction
-Property price modelling using stepwise regression and regularisation techniques.
 
+Property price modelling using stepwise regression and regularisation techniques.
 
 **Tools:** Regression | Lasso | Ridge | Elastic Net
 
 [View Project](https://github.com/AnjuSambasivan93/Regression-Models-for-Property-Price-Stepwise-Regularization)
 
-### Crime Prediction
-Crime prediction using Random Forest classification.
+### Crime Prediction Using Random Forest
 
-**Tools:** R | Random Forest | Classification
+Crime prediction and classification using Random Forest.
+
+**Tools:** R | Random Forest | Classification | Machine Learning
 
 [View Project](https://github.com/AnjuSambasivan93/Random-Forest-Classification)
 
 ### Seed Morphological Analysis
+
 Clustering seed morphological characteristics using K-Means and Gaussian Mixture Models.
 
-**Tools:** K-Means | GMM | Clustering
+**Tools:** K-Means | GMM | Clustering | Data Mining
 
 [View Project](https://github.com/AnjuSambasivan93/K-means-and-GMM-Based-Clustering-of-Seed-Morphological-Features)
 
 ### RGB Colour Classification
+
 Comparison of QDA and k-NN methods for RGB-based colour classification.
 
 **Tools:** QDA | k-NN | Classification
 
 [View Project](https://github.com/AnjuSambasivan93/RGB-Based-Color-Classification-A-QDA-vs-k-NN-Study)
 
+### Possum Age Prediction
+
+Prediction of possum age using multiple linear regression and morphological characteristics.
+
+**Tools:** Multiple Linear Regression | Statistical Modelling
+
+[View Project](https://github.com/AnjuSambasivan93/Possum-Age-Prediction-Multiple-Linear-Regression)
+
 ---
 
-## Geospatial & R Projects
+## Geospatial Analytics
 
 ### New Zealand Geospatial Visualisation
+
 Interactive mapping and spatial data visualisation of New Zealand data.
 
-**Tools:** R | Leaflet | sf | GIS
+**Tools:** R | Leaflet | sf | GIS | Spatial Analysis
 
 [View Project](https://github.com/AnjuSambasivan93/GIS-with-leaflet-sf-in-R)
 
 ---
 
+## Data Wrangling & Statistical Analysis
+
+### Vehicle Engine Analysis
+
+Analysis of cylinder count and engine displacement using data grouping and summarisation.
+
+**Tools:** R | Data Wrangling | Data Analysis
+
+[View Project](https://github.com/AnjuSambasivan93/Cylinders_vs_Displacement)
+
+### Cannabis Legalisation Referendum Analysis
+
+Analysis of the 2020 New Zealand cannabis legalisation referendum with a focus on missing-data imputation.
+
+**Tools:** R | Imputation | Statistical Analysis
+
+[View Project](https://github.com/AnjuSambasivan93/Imputation)
+
+### Uber Eats Review Web Scraping
+
+Web scraping project collecting and preparing Uber Eats customer reviews from Trustpilot.
+
+**Tools:** R | Web Scraping | Data Wrangling
+
+[View Project](https://github.com/AnjuSambasivan93/Web-Scraping)
+
+### Vehicle Mileage Regression Analysis
+
+Analysis of the relationship between vehicle weight and mileage using simple linear regression.
+
+**Tools:** R | Linear Regression | Statistical Analysis
+
+[View Project](https://github.com/AnjuSambasivan93/Linear-Regression)
+
+### Diamond Price Analysis
+
+Analysis of factors influencing diamond prices using multiple linear regression.
+
+**Tools:** R | Multiple Linear Regression | Statistical Modelling
+
+[View Project](https://github.com/AnjuSambasivan93/Multiple-Linear-Regression)
+
+---
+
 ## Data Applications
 
-### Resume Extractor
-Python application for extracting structured information from resumes.
+### Resume Screening System
 
-**Tools:** Python | Data Extraction
+Python application for extracting structured information from resumes to support candidate analysis.
+
+**Tools:** Python | Data Extraction | Structured Data Processing
 
 [View Project](https://github.com/AnjuSambasivan93/HR-Resume-Screening-System)
 
@@ -112,11 +192,15 @@ Python application for extracting structured information from resumes.
 
 ## Technical Skills
 
-**Data Analytics & BI:** Power BI, DAX, Power Query, Data Modelling, Data Visualisation
+**Business Intelligence:** Power BI, DAX, Power Query, Data Modelling, Data Visualisation
 
 **Programming:** Python, SQL, R
 
 **Data & Databases:** Pandas, NumPy, SQL Server, PostgreSQL, Snowflake, SSIS, ETL, Data Warehousing
+
+**Data Science:** Regression, Classification, Clustering, Forecasting, Machine Learning, Statistical Analysis
+
+**Geospatial:** GeoPandas, sf, Leaflet, Spatial Analysis
 
 **Tools:** Git, GitHub, Azure DevOps, VS Code, Jupyter Notebook
 
@@ -124,12 +208,14 @@ Python application for extracting structured information from resumes.
 
 ## Education
 
-**Master of Applied Data Science**  
-University of Canterbury, New Zealand
+### Master of Applied Data Science
+**University of Canterbury, New Zealand**
 
-**Master of Technology in Computer and Information Sciences**
+### Master of Technology in Computer and Information Sciences
+**APJ Abdul Kalam Technological University**
 
-**Bachelor of Technology in Computer Science**
+### Bachelor of Technology in Computer Science
+**Mahatma Gandhi University**
 
 ---
 

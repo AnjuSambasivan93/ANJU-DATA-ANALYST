@@ -12,6 +12,14 @@ Thanks for stopping by!
 
 ## Power BI & Business Intelligence Projects
 
+### New Zealand Police Victimisation Analytics
+
+End-to-end analytics solution for analysing 1.5M+ New Zealand Police victimisation records. The project uses Databricks and PySpark for data cleaning and transformation, Delta Lake for Silver and Gold analytical tables, and Power BI for interactive analysis of victimisation trends, geographic areas, offence types, locations, and demographics.
+
+**Tools:** Databricks | PySpark | Delta Lake | Power BI | DAX | Python
+
+[View Project](https://github.com/AnjuSambasivan93/POWER-BI-PORTFOLIO/tree/main/NZ-Police-Victimisation-Analytics)
+
 ### Personal Finance Dashboard
 
 Interactive Power BI dashboard for analysing monthly income, expenses, available balance, and performance against income targets.

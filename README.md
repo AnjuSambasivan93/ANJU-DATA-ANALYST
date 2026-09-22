@@ -13,32 +13,19 @@ Interactive Power BI dashboard for analysing monthly income, expenses, available
 
 **Tools:** Power BI | DAX | Data Modelling | Data Visualisation
 
-[View Project](PROJECT-LINK)
+[View Project](https://github.com/AnjuSambasivan93/POWER-BI-PORTFOLIO/tree/main/Personal-Finance-Dashboard)
 
-### Property Analysis
-Business intelligence solution for analysing property, location, and school data using dimensional modelling, ETL, and interactive reporting.
+### NSW Property Market Analysis Dashboard
 
-**Tools:** SQL Server | SSIS | Power BI | DAX | Data Warehousing
+End-to-end Business Intelligence project analysing property median values across New South Wales using SSIS, SQL Server, dimensional modelling, and Power BI.
 
-[View Project](https://github.com/AnjuSambasivan93/Property-Analysis)
+**Tools:** Power BI | DAX | SQL Server | SSIS | ETL | Data Warehousing
 
-### HR Analytics Dashboard
-Power BI report for analysing HR data and workforce metrics.
-
-**Tools:** Power BI | Data Visualisation
-
-[View Project](https://github.com/AnjuSambasivan93/Dashboard-1-HR-Power-BI-Report)
+[View Project](https://github.com/AnjuSambasivan93/POWER-BI-PORTFOLIO/tree/main/Property-Analysis-Dashboard)
 
 ---
 
 ## Data Analytics Projects
-
-### Online Retail Analytics
-End-to-end retail analytics project covering data preparation, SQL analysis, data warehousing, and business intelligence reporting.
-
-**Tools:** Python | Pandas | Snowflake | SQL | Power BI
-
-[View Project](https://github.com/AnjuSambasivan93/online-retail-analytics)
 
 ### New Zealand Crash Analysis
 Interactive analysis of New Zealand crash data across regions, years, crash severity, weather, speed limits, lighting conditions, and other road-safety factors.

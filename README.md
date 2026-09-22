@@ -1,8 +1,12 @@
-# Anju Sambasivan | Data Analyst
+# Kia ora! I'm Anju Sambasivan 👋
 
-Data & Business Intelligence Analyst with experience in **data analytics, ETL, data modelling, Power BI, SQL, Python, R, and automated reporting**.
+I'm a **Data & Business Intelligence Analyst** based in Christchurch, New Zealand, with a background in Applied Data Science.
 
-I transform complex datasets into clear, actionable insights through data preparation, analysis, visualisation, statistical modelling, and business intelligence.
+I enjoy working with data to uncover meaningful insights and turn complex information into clear, practical solutions. My experience includes **data analytics, ETL, data modelling, Power BI, SQL, Python, R, and automated reporting**.
+
+This portfolio showcases some of the projects I've worked on across **data analysis, business intelligence, data engineering, visualisation, and predictive analytics**.
+
+Thanks for stopping by!
 
 ---
 

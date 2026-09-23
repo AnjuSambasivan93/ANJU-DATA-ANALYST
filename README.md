@@ -44,10 +44,6 @@ End-to-end Business Intelligence solution for analysing property median values a
 
 A collection of large-scale data analytics and machine learning projects completed as part of my Master of Applied Data Science at the University of Canterbury. The projects use Apache Spark, PySpark, and Azure to process and analyse datasets containing millions to billions of records.
 
-**Tools:** Apache Spark | PySpark | Python | Azure | Spark ML | Machine Learning | Parquet
-
-[View Repository](https://github.com/AnjuSambasivan93/UC-Big-Data-Analytics)
-
 #### GHCN Climate Data Analysis
 
 Large-scale analysis of the Global Historical Climatology Network (GHCN) dataset, processing more than **3.1 billion historical weather observations**. The project includes Spark-based data processing, weather-station metadata integration, data-quality analysis, geospatial analysis, New Zealand temperature trends, and global precipitation analysis.

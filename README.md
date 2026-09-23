@@ -38,6 +38,34 @@ End-to-end Business Intelligence solution for analysing property median values a
 
 ---
 
+## Big Data Analytics Projects
+
+### UC Big Data Analytics
+
+A collection of large-scale data analytics and machine learning projects completed as part of my Master of Applied Data Science at the University of Canterbury. The projects use Apache Spark, PySpark, and Azure to process and analyse datasets containing millions to billions of records.
+
+**Tools:** Apache Spark | PySpark | Python | Azure | Spark ML | Machine Learning | Parquet
+
+[View Repository](https://github.com/AnjuSambasivan93/UC-Big-Data-Analytics)
+
+#### GHCN Climate Data Analysis
+
+Large-scale analysis of the Global Historical Climatology Network (GHCN) dataset, processing more than **3.1 billion historical weather observations**. The project includes Spark-based data processing, weather-station metadata integration, data-quality analysis, geospatial analysis, New Zealand temperature trends, and global precipitation analysis.
+
+**Tools:** Apache Spark | PySpark | Python | Azure Blob Storage | Pandas | Matplotlib | Plotly | Parquet
+
+[View Project](https://github.com/AnjuSambasivan93/UC-Big-Data-Analytics/tree/main/01-GHCN-Climate-Analysis)
+
+#### Million Song Dataset Analysis
+
+Large-scale music analytics and machine learning project using the Million Song Dataset and more than **48 million user-song interactions**. The project includes audio-feature processing, binary and multiclass genre classification using Spark ML, and an ALS collaborative-filtering recommendation system.
+
+**Tools:** Apache Spark | PySpark | Spark ML | Python | Azure Blob Storage | Logistic Regression | Random Forest | GBT | ALS
+
+[View Project](https://github.com/AnjuSambasivan93/UC-Big-Data-Analytics/tree/main/02-Million-Song-Analysis)
+
+---
+
 ## Data Analytics Projects
 
 ### New Zealand Crash Analysis
@@ -216,11 +244,17 @@ AI application using Retrieval-Augmented Generation (RAG) to retrieve relevant i
 
 **Programming:** Python, SQL, R
 
-**Data & Databases:** Pandas, NumPy, SQL Server, PostgreSQL, Snowflake, SSIS, ETL, Data Warehousing
+**Big Data & Cloud:** Apache Spark, PySpark, Databricks, Azure, Azure Blob Storage, Delta Lake, Snowflake
 
-**Data Science:** Regression, Classification, Clustering, Forecasting, Machine Learning, Statistical Analysis
+**Data Engineering:** ETL, SSIS, Data Warehousing, Dimensional Modelling, Parquet, SQL Server, PostgreSQL
+
+**Data Science & Machine Learning:** Regression, Classification, Clustering, Forecasting, Spark ML, Random Forest, Gradient-Boosted Trees, Collaborative Filtering, ALS
+
+**Python & Analytics:** Pandas, NumPy, Matplotlib, GeoPandas
 
 **Geospatial:** GeoPandas, sf, Leaflet, Spatial Analysis
+
+**AI:** LLMs, RAG, Vector Search, Structured Data Extraction
 
 **Tools:** Git, GitHub, Azure DevOps, VS Code, Jupyter Notebook
 

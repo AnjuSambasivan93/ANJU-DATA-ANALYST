@@ -271,7 +271,11 @@ AI application using Retrieval-Augmented Generation (RAG) to retrieve relevant i
 
 ## Certifications
 
-**Microsoft Certified: Azure Fundamentals (AZ-900)**
+- **Microsoft Certified: Azure Fundamentals (AZ-900)** - Microsoft
+- **Microsoft Certified: Power BI Data Analyst Associate (PL-300)** - In Progress
+- **Databricks Certified Data Engineer Associate – Ultimate Prep** - Udemy
+- **Data Analysis | SQL, Tableau, Power BI & Excel | Real Projects** - Udemy
+- **Docker CI/CD: 40 Practical Demos for DevOps Learners** - Udemy
 
 ---
 
